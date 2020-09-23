@@ -6,3 +6,4 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ### Giulia Moraes, Lucas Aquino / https://github.com/LucasAqn/UFF-Prog_Web
 ### João Vitor Nogueria, Matheus Lobo, Ramon Ferreira / https://github.com/JoaoVitorSantiagoNogueira/Trabalho-progweb-joaoNogueira-matheusLobo-RamonFerreira
+### Bennett, Samuel Britto, Victor Salles / https://github.com/VictorSallesBz/Trabalho-Prog-Web
