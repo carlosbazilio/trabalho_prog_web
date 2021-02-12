@@ -4,5 +4,6 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
-###  / 
+###  Ayrton Cavalieri / [RSSReaderServer](https://github.com/ayrtoncavalieri/RSSReaderServer)
+###  Pedro Carvalho / [RSS Reader](https://github.com/inceptusp/rssreader)
 
