@@ -4,6 +4,8 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
+### Tamara Dias e Jovane Mafort / https://github.com/jmafort/RSS-Reader
+### Emerson Teixeira / https://github.com/Emerson-Teixeira/Trabalho-ProgWeb
 ###  Ayrton Cavalieri / [RSSReaderServer](https://github.com/ayrtoncavalieri/RSSReaderServer)
 ###  Pedro Carvalho / [RSS Reader](https://github.com/inceptusp/rssreader)
 ### Tamara Dias e Jovane Mafort / https://github.com/jmafort/RSS-Reader
