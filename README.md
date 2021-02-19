@@ -6,4 +6,4 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ###  Ayrton Cavalieri / [RSSReaderServer](https://github.com/ayrtoncavalieri/RSSReaderServer)
 ###  Pedro Carvalho / [RSS Reader](https://github.com/inceptusp/rssreader)
-
+### Tamara Dias e Jovane Mafort / https://github.com/jmafort/RSS-Reader
