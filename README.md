@@ -4,5 +4,4 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
-###  / 
-
+### Tamara Dias e Jovane Mafort / https://github.com/jmafort/RSS-Reader
