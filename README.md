@@ -4,4 +4,6 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
+Jovane Mafort, Sabrina Sampaio, Wanderley Rangel / https://github.com/Sabrina-Btt/e-commerce
+
 ### 
