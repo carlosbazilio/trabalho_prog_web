@@ -4,4 +4,11 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
-### 
+### Grupo 1
+
+- Joelson Ferreira
+- Rafael Oliveira
+- Rafael Ferreira
+- David Nora
+
+[Projeto no Github] (https://github.com/JoelsonFerreira/ITU-ecommerce)
