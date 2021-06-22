@@ -4,4 +4,6 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
-- Joelson Ferreira, Rafael Oliveira, Rafael Ferreira, David Nora - [Projeto no Github](https://github.com/JoelsonFerreira/ITU-ecommerce)
+* Joelson Ferreira, Rafael Oliveira, Rafael Ferreira, David Nora - [Projeto no Github](https://github.com/JoelsonFerreira/ITU-ecommerce)
+* Jovane Mafort, Sabrina Sampaio, Wanderley Rangel / https://github.com/Sabrina-Btt/e-commerce
+ 
