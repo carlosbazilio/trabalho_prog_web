@@ -7,4 +7,4 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 * Joelson Ferreira, Rafael Oliveira, Rafael Ferreira, David Nora - [Projeto no Github](https://github.com/JoelsonFerreira/ITU-ecommerce)
 * Jovane Mafort, Sabrina Sampaio, Wanderley Rangel / https://github.com/Sabrina-Btt/e-commerce
 * Carlos Linhares, Humberto Chaves, Layla Sampaio, Thiago dos Santos - https://github.com/Carl11br/Programacao-para-Internet
- 
+* Pedro Crespo, Savio Carvalho, Leonardo Sanches - https://github.com/pedbcrespo/ProgWeb
