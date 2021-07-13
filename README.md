@@ -8,3 +8,4 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 * Jovane Mafort, Sabrina Sampaio, Wanderley Rangel / https://github.com/Sabrina-Btt/e-commerce
 * Carlos Linhares, Humberto Chaves, Layla Sampaio, Thiago dos Santos - https://github.com/Carl11br/Programacao-para-Internet
 * Pedro Crespo, Savio Carvalho, Leonardo Sanches - https://github.com/pedbcrespo/ProgWeb
+* Allan Martins, Pablo Montel - [Projeto PetFeliz](https://github.com/martsallan/PetFeliz)
