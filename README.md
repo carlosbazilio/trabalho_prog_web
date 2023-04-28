@@ -4,4 +4,4 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
-* 
+* João Victor de Souza / https://github.com/JVictor-CC/My-Chat-GPT
