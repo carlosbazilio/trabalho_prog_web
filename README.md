@@ -4,4 +4,4 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
-* 
+* Rodrigo Porto e Reinaldo Coutinho / https://github.com/RodrigoPorto14/ChatNorris
