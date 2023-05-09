@@ -4,6 +4,7 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
+* Ramon dos Santos Ferreira / https://github.com/ramondsf92/ChatDoPT
 * Yunguer e Douglas / https://github.com/Yunguer/Prog-Web
 * Thayná Marins / https://github.com/thaynamarinss/releituraChatGPT
 * Orlando Nascimento e Felipe Viana / https://github.com/on-ferreira/GePeTinhoWEB
