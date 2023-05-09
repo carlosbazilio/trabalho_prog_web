@@ -4,6 +4,7 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
+* Bruno Macedo / https://github.com/odecam0/xatgepete
 * João Victor de Souza / https://github.com/JVictor-CC/My-Chat-GPT
 * Ramon dos Santos Ferreira / https://github.com/ramondsf92/ChatDoPT
 * Yunguer e Douglas / https://github.com/Yunguer/Prog-Web
